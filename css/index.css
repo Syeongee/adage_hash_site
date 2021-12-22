@@ -5,6 +5,7 @@
     width: 100%;
     height: 400px;
     background-color: #555;
+    overflow: hidden;
 }
 #main .slider{}
 #main .slider .slide{
